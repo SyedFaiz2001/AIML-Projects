@@ -13,4 +13,7 @@ This repository serves as a curated list of my best work in the field of Artific
 ## 📊 Classical Machine Learning
 - **[Titanic Survival Prediction](https://github.com/yourusername/titanic-xgboost)**  
   Applied feature engineering and XGBoost to predict survival outcomes.
-
+  
+## 📈 Time Series Forecasting
+- **[Hourly Energy Consumption Forecasting](https://github.com/yourusername/energy-consumption-time-series)**  
+  Compared Linear Regression vs. XGBoost Regressor for hourly energy demand prediction using rolling mean/std features. Included resampling, visualizations, and model evaluation
